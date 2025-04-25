@@ -1,5 +1,5 @@
 
-import { Calculator, BookOpen, Flask, Atom } from "lucide-react";
+import { Calculator, BookOpen, FlaskConical, Atom } from "lucide-react";
 
 export const Hero = () => {
   return (
@@ -10,7 +10,7 @@ export const Hero = () => {
           <div className="flex gap-4 text-primary animate-fade-in">
             <Calculator className="w-8 h-8" />
             <BookOpen className="w-8 h-8" />
-            <Flask className="w-8 h-8" />
+            <FlaskConical className="w-8 h-8" />
             <Atom className="w-8 h-8" />
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 animate-fade-in">

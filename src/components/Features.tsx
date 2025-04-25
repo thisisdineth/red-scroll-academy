@@ -1,5 +1,5 @@
 
-import { BookText, Calculator, Flask } from "lucide-react";
+import { BookText, Calculator, FlaskConical } from "lucide-react";
 
 export const Features = () => {
   const features = [
@@ -14,7 +14,7 @@ export const Features = () => {
       description: "Engage with dynamic problems and get instant feedback.",
     },
     {
-      icon: <Flask className="w-8 h-8" />,
+      icon: <FlaskConical className="w-8 h-8" />,
       title: "Expert Guidance",
       description: "Learn from experienced educators and subject matter experts.",
     },
