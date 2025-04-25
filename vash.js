@@ -1,7 +1,7 @@
 
 // Initialize Lucide icons
 document.addEventListener('DOMContentLoaded', () => {
-    lucide.createIcons();
+
     
     // Sample data for founders
     const founders = [
